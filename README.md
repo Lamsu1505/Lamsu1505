@@ -1,39 +1,50 @@
 # ¡Hola! 👋 Soy Andrés Pérez
 
-🎓 Estudiante de Ingeniería de Sistemas y Computación en la Universidad del Quindío.
+🎓 Estudiante de Ingeniería de Sistemas y Computación de la Universidad del Quindío.
 
-💻 Desarrollador de software apasionado por el desarrollo móvil, backend y la creación de experiencias centradas en el usuario.
+💻 Desarrollador de software con interés en el desarrollo backend, aplicaciones móviles y tecnologías web. Me apasiona construir soluciones tecnológicas que generen impacto real, aplicando buenas prácticas de desarrollo y diseño centrado en el usuario.
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías y herramientas
 
-- Java
-- Kotlin
-- Spring Boot
-- Jetpack Compose
+### Bases de Datos
+- Oracle Database
+- PostgreSQL
+- MongoDB
+- SQL y NoSQL
+
+### Frontend
 - Angular
 - React
-- MongoDB
+- HTML5
+- JavaScript
+
+### Desarrollo Móvil
+- Kotlin
+- Jetpack Compose
+- Android Studio
+
+### Backend
+- Java
+- Spring Boot
+- APIs REST
+
+### Herramientas
+- Git
+- GitHub
 - Firebase
-- Git & GitHub
-
-## 📱 Proyectos Destacados
-
-### Zúbelo
-Aplicación móvil para la creación, descubrimiento y gestión de eventos, integrando inteligencia artificial para clasificación automática de categorías.
-
-### UniEventos
-Plataforma web para la gestión y venta de entradas para eventos desarrollada con Spring Boot, Angular y MongoDB.
-
-### QMD
-Sistema de gestión de préstamos y catálogo de productos basado en modelado de procesos de negocio.
+- Cloudinary
+- Postman
 
 ## 🌱 Actualmente aprendiendo
 
-- Arquitecturas móviles modernas
-- Inteligencia Artificial aplicada al desarrollo de software
-- Cloud Computing
+- Arquitecturas de software
+- Inteligencia Artificial aplicada al desarrollo de aplicaciones
+- Servicios Cloud
 
 ## 📫 Contacto
 
-- LinkedIn: [Tu perfil]
-- Correo: [Tu correo]
+📧 andres@email.com
+
+💼 LinkedIn: https://linkedin.com/in/tu-perfil
+
+🐙 GitHub: https://github.com/Lamsu1505
