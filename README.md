@@ -1,16 +1,23 @@
-# ¡Hola! 👋 Soy Andrés Pérez
+# Hi, I'm Andrés Pérez
 
-🎓 Estudiante de Ingeniería de Sistemas y Computación de la Universidad del Quindío.
+ Tenth-semester Systems and Computing Engineering student at the University of Quindío.
 
-💻 Desarrollador de software con interés en el desarrollo backend, aplicaciones móviles y tecnologías web. Me apasiona construir soluciones tecnológicas que generen impacto real, aplicando buenas prácticas de desarrollo y diseño centrado en el usuario.
+ Systems and Computing Engineering student with experience in web and mobile application development using Java, Spring Boot, Kotlin, and modern frontend technologies such as Angular and React. I have worked on academic and personal projects involving REST API development, SQL and NoSQL databases, and cloud services. I am passionate about software development and continuously improving my technical, analytical, and collaborative skills to build efficient and scalable solutions.
 
-## 🚀 Tecnologías y herramientas
+## Languages
+- Java
+- Python
+- Javascript
+- Kotlin
+- SQL
 
-### Bases de Datos
+## Technologies & Tools
+
+### Databases
 - Oracle Database
 - PostgreSQL
 - MongoDB
-- SQL y NoSQL
+- SQL & NoSQL
 
 ### Frontend
 - Angular
@@ -18,7 +25,7 @@
 - HTML5
 - JavaScript
 
-### Desarrollo Móvil
+### Mobile Development
 - Kotlin
 - Jetpack Compose
 - Android Studio
@@ -26,25 +33,26 @@
 ### Backend
 - Java
 - Spring Boot
-- APIs REST
+- REST APIs
 
-### Herramientas
+### Tools
 - Git
 - GitHub
 - Firebase
 - Cloudinary
 - Postman
+- Power BI
 
-## 🌱 Actualmente aprendiendo
+## Currently Learning
 
-- Arquitecturas de software
-- Inteligencia Artificial aplicada al desarrollo de aplicaciones
-- Servicios Cloud
+- Servers Administration
+- Artificial Intelligence
+- Cloud Services
 
-## 📫 Contacto
+## 📫 Contact
 
-📧 andres@email.com
+📧 Email: perezmartinezandres0@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/tu-perfil
+💼 LinkedIn: www.linkedin.com/in/andres-perez-martinez-7a9190377
 
 🐙 GitHub: https://github.com/Lamsu1505
