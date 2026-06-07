@@ -6,7 +6,7 @@ Passionate about software development, web and mobile applications, backend arch
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -64,7 +64,7 @@ Passionate about software development, web and mobile applications, backend arch
 
 ---
 
-## 🚀 Areas of Interest
+## Areas of Interest
 
 - Full Stack Development
 - Data Analytics
@@ -83,19 +83,31 @@ Passionate about software development, web and mobile applications, backend arch
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 **Email:** perezmartinezandres0@gmail.com
+<p align="left">
+  <a href="mailto:perezmartinezandres0@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  &nbsp;&nbsp;
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/andres-perez-martinez-7a9190377
+  <a href="https://www.linkedin.com/in/andres-perez-martinez-7a9190377">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  &nbsp;&nbsp;
 
-🐙 **GitHub:**  
-https://github.com/Lamsu1505
+  <a href="https://github.com/Lamsu1505">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+</p>
+
+- **Email:** `perezmartinezandres0@gmail.com`
+- **LinkedIn:** [andres-perez-martinez](https://www.linkedin.com/in/andres-perez-martinez-7a9190377)
+- **GitHub:** [Lamsu1505](https://github.com/Lamsu1505)
 
 ---
 
-⭐ Always open to learning, collaborating, and building innovative software solutions.
+ Always open to learning, collaborating, and building innovative software solutions.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamsu1505&show_icons=true&theme=tokyonight)
