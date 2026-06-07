@@ -96,3 +96,10 @@ https://github.com/Lamsu1505
 ---
 
 ⭐ Always open to learning, collaborating, and building innovative software solutions.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamsu1505&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamsu1505&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Lamsu1505&theme=tokyonight)
